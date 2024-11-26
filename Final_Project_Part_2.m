@@ -1,5 +1,5 @@
 
-%% Final Project - Part 1
+%% Final Project - Part 2
 clc,  clear all 
 % Seasonal Influenza
 beta1 = 0.3; % Transmission Rate
